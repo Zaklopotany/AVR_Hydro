@@ -1,0 +1,1 @@
+AVR ATmega32 project for hydroponic control. This project consist of few modules to handle: 5 keys ( A/D converter), LCD, pump (PWM controlled), top water level senser ( A/D converter), bottom water level sensor ( I/O and A/D converter). Will make use of internal counters and external interruptions to handle all of the sensors and keyboard. 
